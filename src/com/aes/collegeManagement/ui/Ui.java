@@ -1,4 +1,4 @@
-package com.aes.collegeMangement.ui;
+package com.aes.collegeManagement.ui;
 
 import java.util.Scanner;
 

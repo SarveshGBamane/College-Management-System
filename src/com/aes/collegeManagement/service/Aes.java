@@ -1,4 +1,4 @@
-package com.aes.collegeMangement.service;
+package com.aes.collegeManagement.service;
 
 public interface Aes {
 	

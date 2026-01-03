@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.aes.collegeMangement.model.Batch;
-import com.aes.collegeMangement.model.Course;
-import com.aes.collegeMangement.model.Faculty;
-import com.aes.collegeMangement.model.Student;
-import com.aes.collegeMangement.service.Aes;
+import com.aes.collegeManagement.model.Batch;
+import com.aes.collegeManagement.model.Course;
+import com.aes.collegeManagement.model.Faculty;
+import com.aes.collegeManagement.model.Student;
+import com.aes.collegeManagement.service.Aes;
 
 public class ServiceImpl implements Aes{
 	

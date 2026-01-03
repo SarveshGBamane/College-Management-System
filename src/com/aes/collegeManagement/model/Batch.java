@@ -1,4 +1,4 @@
-package com.aes.collegeMangement.model;
+package com.aes.collegeManagement.model;
 
 public class Batch {
 	
