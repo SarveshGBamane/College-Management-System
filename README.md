@@ -1,10 +1,10 @@
-# 🎓 College Management System (Java)
+#  College Management System (Java)
 
 A console-based Java application designed to manage Courses, Faculties, Batches, and Students using core Object-Oriented Programming (OOP) concepts. The system provides a menu-driven interface and follows a layered architecture.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Add and view Courses  
 - Add and view Faculties linked with Courses  
@@ -16,7 +16,7 @@ A console-based Java application designed to manage Courses, Faculties, Batches,
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java (Core Java)
 - Collections Framework
@@ -26,7 +26,7 @@ A console-based Java application designed to manage Courses, Faculties, Batches,
 
 ---
 
-## 🧠 OOP Concepts Implemented
+##  OOP Concepts Implemented
 
 - **Encapsulation** – Private variables with getters and setters  
 - **Abstraction** – Service interface (`Aes`)  
@@ -36,7 +36,7 @@ A console-based Java application designed to manage Courses, Faculties, Batches,
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 src/
 ├── com.aes.collegeMangement.model
@@ -56,7 +56,7 @@ src/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository  
    ```bash
