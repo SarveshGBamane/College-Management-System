@@ -38,6 +38,7 @@ A console-based Java application designed to manage Courses, Faculties, Batches,
 
 ##  Project Structure
 
+```bash
 src/
 ├── com.aes.collegeMangement.model
 │ ├── Course.java
@@ -54,6 +55,7 @@ src/
 └── com.aes.collegeMangement.ui
 └── Ui.java
 
+```
 ---
 
 ##  How to Run the Project
